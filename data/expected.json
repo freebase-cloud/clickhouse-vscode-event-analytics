@@ -1,0 +1,17 @@
+{
+  "total": 187,
+  "events": [
+    {
+      "event": "pageview",
+      "share": 80.2
+    },
+    {
+      "event": "signup",
+      "share": 16
+    },
+    {
+      "event": "purchase",
+      "share": 3.7
+    }
+  ]
+}

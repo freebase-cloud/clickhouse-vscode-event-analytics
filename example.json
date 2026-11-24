@@ -1,0 +1,7 @@
+{
+  "name": "clickhouse-vscode-event-analytics",
+  "engine": "clickhouse",
+  "slug": "clickhouse",
+  "kind": "application",
+  "useCase": "event-analytics"
+}

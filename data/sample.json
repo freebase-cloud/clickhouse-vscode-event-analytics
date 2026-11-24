@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "event": "signup",
+    "hits": 30
+  },
+  {
+    "id": 2,
+    "event": "purchase",
+    "hits": 7
+  },
+  {
+    "id": 3,
+    "event": "pageview",
+    "hits": 150
+  }
+]

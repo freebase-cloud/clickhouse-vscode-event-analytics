@@ -1,0 +1,18 @@
+{
+  "name": "clickhouse-vscode-event-analytics",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Calculate event totals and shares locally, without implying ClickHouse-specific engines or performance.",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "start": "node src/app.mjs",
+    "test": "node --test",
+    "demo": "node --env-file=.env src/demo.mjs",
+    "report:live": "node --env-file=.env src/app.mjs --live",
+    "preview": "node src/demo.mjs"
+  }
+}
